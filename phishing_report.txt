@@ -1,0 +1,36 @@
+Sample Email:
+From: support@amaz0n-security.com
+Subject: Urgent! Your account will be suspended
+
+Dear Customer,
+
+We detected suspicious activity in your account.
+Please verify your account immediately to avoid suspension.
+
+Click here: http://amaz0n-login-security.com
+
+If you do not verify within 24 hours, your account will be permanently blocked.
+
+Thank you,
+Amazon Security Team
+
+
+phishing_report.txtPhishing Indicators:
+
+1. Sender Email:
+The email address "support@amaz0n-security.com" is suspicious because it mimics a real company but uses a fake domain.
+
+2. Suspicious Link:
+The link "http://amaz0n-login-security.com" is not an official Amazon website.
+
+3. Urgent Language:
+The email creates panic by saying the account will be suspended within 24 hours.
+
+4. Spoofing:
+The sender pretends to be Amazon but is not legitimate.
+
+5. Grammar Issues:
+The message contains unnatural wording and lacks professionalism.
+
+Conclusion:
+This email is a phishing attempt designed to steal user credentials.
